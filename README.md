@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 -->
 ### Hi, I'm Anastasiia 👋
 
-- 🎓 Computer Science student (B.S., 4th year) at Oles Honchar Dnipro National University, Dnipro, Ukraine
-- 🔬 Research intern at the University of Saskatchewan (Mitacs Globalink, 2026): LLMs for method-level Javadoc documentation debt
+- 🎓 Computer Science student at Oles Honchar Dnipro National University, Dnipro, Ukraine
+- 🔬 Mitacs Globalink Research Internship (GRI'26) alumna, University of Saskatchewan: LLMs for Javadoc documentation debt management
 - 🌱 Learning: machine learning, deep learning, AI, data science & analytics in Python, SQL (Anhalt University, Harvard, Microsoft, University of Michigan, DataCamp, CodeSignal)
 - 🏆 NASA International Space Apps Challenge 2025: Global Finalist (team "CloudMap")
 
