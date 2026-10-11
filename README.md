@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 🎓 Computer Science student at Oles Honchar Dnipro National University, Dnipro, Ukraine
 - 🔬 Mitacs Globalink Research Internship (GRI'26) alumna, University of Saskatchewan: LLMs for Javadoc documentation debt management
-- 🌱 Learning: machine learning, deep learning, AI, data science & analytics in Python, SQL (Anhalt University, Harvard, Microsoft, University of Michigan, DataCamp, CodeSignal)
+- 🌱 Learning: machine learning, deep learning, AI, data science & analytics in Python, SQL (Anhalt University, Harvard, Microsoft, University of Michigan, DataCamp, CodeSignal certificates)
 - 🏆 NASA International Space Apps Challenge 2025: Global Finalist (team "CloudMap")
 
 ### 🛠 Tech Stack
